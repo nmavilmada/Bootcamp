@@ -1,0 +1,25 @@
+/**
+ * Google Fonts Demo
+ **/
+
+/* Add in the Google Fonts of your choice */
+
+
+
+h4{
+    visibility: visible;
+    font-family: "Shadows Into Light script=latin rev=2";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.10909;
+
+}
+.thought1{
+    visibility: visible;
+    font-family: "Shadows Into Light script=latin rev=2";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.10909;
+}
